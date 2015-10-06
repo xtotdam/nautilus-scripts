@@ -2,6 +2,8 @@
 
 Some quite useful scripts for some routinous work
 
+`git clone https://github.com/xtotdam/nautilus-scripts.git ~/.local/share/nautilus/scripts`
+
 
 ### Notes
 

@@ -2,4 +2,4 @@
 
 LINK=$(xclip -selection clipboard -o)
 
-wget $LINK
+wget "$LINK"
