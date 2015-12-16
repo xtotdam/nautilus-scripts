@@ -1,3 +1,3 @@
 #!/bin/sh
 
-meld $@
+meld "$1" "$2"
