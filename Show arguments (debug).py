@@ -1,5 +1,7 @@
 #!/usr/bin/python2
 
+# This script was created to show arguments and everything
+
 import sys
 import os
 

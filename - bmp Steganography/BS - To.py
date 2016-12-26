@@ -1,5 +1,8 @@
 #!/usr/bin/python2
 
+# Encrypts single file to bmp. Many files will become many images.
+# Works with many selected files.
+
 from PIL import Image
 import zlib
 import math

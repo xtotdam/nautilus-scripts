@@ -1,5 +1,8 @@
 #!/usr/bin/python2
 
+# Decrypts bmps back to files.
+# Works with many selected files.
+
 from PIL import Image
 import zlib
 import itertools

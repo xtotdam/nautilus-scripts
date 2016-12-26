@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Put selected pictures to single GIF
+
 R=$(date +%Y%d%m%H%M%S%N)
 FN=$(basename "$PWD")
 

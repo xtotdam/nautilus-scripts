@@ -7,10 +7,32 @@ Some quite useful scripts for some routinous work
 
 ### Notes
 
-* `add_dir_prefix` work only within a folder for now
 * some of them require `notify-send` to work
+* `Parallel linkfile downloader.py` is from https://github.com/xtotdam/concurrent-downloader and may be a bit outdated.
 
-####TODO
+### Troubleshooting
 
+In case something doesn't work, you may need to install some of these packages
 
+```
+ddjvu
+id3ren
+imagemagick
+meld
+pdf2djvu
+xclip
 
+pdfnup	(from texlive)
+pdfcrop	(from texlive)
+```
+
+or python packages
+
+```
+eventlet
+PIL
+```
+
+### TODO
+* [ ] Make me choose prefix for `Add directory prefix.py`
+* [ ] GUI for `PDF to WxH.sh`
