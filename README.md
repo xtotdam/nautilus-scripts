@@ -21,6 +21,7 @@ imagemagick
 meld
 pdf2djvu
 xclip
+zenity
 
 pdfnup	(from texlive)
 pdfcrop	(from texlive)
@@ -35,4 +36,4 @@ PIL
 
 ### TODO
 * [ ] Make me choose prefix for `Add directory prefix.py`
-* [ ] GUI for `PDF to WxH.sh`
+* [x] GUI for `PDF to WxH.sh`
